@@ -2,7 +2,7 @@ site_name: West Ada School District Board of Trustees
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/logo.png
+  logo: img/logo.png
 markdown_extensions:
   - footnotes
   - meta
