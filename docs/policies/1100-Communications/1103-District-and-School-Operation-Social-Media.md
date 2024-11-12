@@ -1,0 +1,38 @@
+---
+created: 2022-09-26
+reviewed: 2022-09-26
+
+---
+
+# 1103 District - and School-Operation Social Media
+
+The West Ada School District recognizes the value of social media to reach students, parents, and community members effectively and efficiently. The District and school social media accounts will be used to disseminate time- sensitive information as quickly as possible, to promote upcoming events, and to recognize outstanding student and faculty achievements.
+
+All official West Ada social media accounts will be published on the District website. Any other school activity websites are considered unofficial.
+
+This policy establishes guidelines for the use of West Ada School District and/or school-operated social media profiles. The policy does not apply to private student or parent organizations.
+
+The District’s communications team shall remove any material from social media accounts that may be:
+
+
+- Materially disruptive to the educational process or compromising to student or staff safety;
+
+- In violation of a person’s rights;
+
+- Invasive to a person’s privacy;
+
+- Infringing on a copyright or trademark;
+
+- Obscene, vulgar, or indecent;
+
+- Promoting, fostering, or perpetuating discrimination on the basis of race, ethnicity, age, religion, gender, sex, national origin, physical or mental disability, sexual orientation and any other state or federally recognized protected classification;
+
+- Encouraging illegal behavior;
+
+- Encouraging hazing, harassment, intimidation, bullying, or cyberbullying
+
+All social media accounts are to comply with West Ada School District policies and procedures, and state and federal rules and regulations, including without limitation: the Idaho Code of Ethics for Professional Educators; Student and Personnel Acceptable Internet Use policies; records retention policies; and applicable privacy and confidentiality policies adopted by the District or as approved by state or federal law. Any matter exempt from disclosure under the Idaho Public Writings Law shall not be posted on social media and will be removed if posted. No student records shall be posted on social media channels.
+
+The District’s communications team will develop procedures to implement this policy; the procedures will be regularly reviewed and updated as necessary. Social media and best practice training will be provided to school media coordinators.
+
+

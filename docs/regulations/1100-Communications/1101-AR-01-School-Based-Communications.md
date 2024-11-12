@@ -1,0 +1,38 @@
+~1101-AR(1): School-Based Communications~
+ 1101-AR(1): School-Based Communications Status:Status: ADOPTED
+```
+```
+Original Adopted Date:Original Adopted Date: 09/26/2022 | Last Revised Date:| Last Revised Date: 11/01/2023 | Last Reviewed Date:| Last Reviewed Date: 11/01/2023
+```
+These are the administrative procedures for covering school-based communications, including website, newsletter,
+and social media.
+
+To support school-based communications, each principal will designate a media coordinator for the building called a
+brand ambassador. The brand ambassador is responsible for managing the school’s website, newsletter, social media,
+and other communications. This brand ambassador will be the District’s communications team point of contact within
+the school building.
+
+Each school’s website will include essential information, including staff contact information, school calendars,
+registration information, resources, etc. With support from the District’s communications team, school-based
+websites will be continuously updated.
+
+All school buildings will have a newsletter that is digitally shared at least twice a month.. The building Principal or
+designee shall be responsible for the creation of the newsletters each month. The building Brand Ambassador, unless
+the building Principal has appointed an alternative designee, shall be responsible for ensuring the current newsletter,
+and an archive of past newsletters, are available to view on the school's website.
+
+All West Ada School District school buildings will be expected to maintain at least one social media account.
+Additional social media accounts from the District approved social media list are optional.
+
+The District’s website includes information for parents/guardians who choose to opt-out of their student’s image
+being utilized by the communications team.
+
+Emergency information will be coordinated by the Chief Communications Officer and the Superintendent or
+Designee, working closely with law enforcement and/or emergency responders. These types of emergency
+communications will be shared through text and voice call.
+
+```
+BoardPolicyManual
+WestAdaSchoolDistrict
+```
+

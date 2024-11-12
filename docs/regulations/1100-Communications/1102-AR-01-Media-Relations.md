@@ -1,0 +1,31 @@
+~1102-AR(1): Media Relations~
+ 1102-AR(1): Media Relations Status:Status: ADOPTED
+```
+```
+Original Adopted Date:Original Adopted Date: 09/26/2022 | Last Reviewed Date:| Last Reviewed Date: 09/26/2022
+```
+These are the administrative procedures for covering District media relations.
+
+The District’s Chief Communications Officer is the point person for media requests. All such requests will be directed
+to the District’s Chief Communications Officer in order to coordinate the response.
+
+Employees are to direct all school-related media inquiries to the principal and the District’s communications team.
+
+The District recognizes that the nature of some positions require responses to media requests and interviews. In
+coordination with the Chief Communications Officer and the principal, employees such as coaches, activity and
+athletic directors, and supervisors shall respond to such requests for information in a clear and concise manner.
+
+If an employee engages in media communications of any nature, whether personal or professional, clarity must be
+given as to whether the individual is speaking as West Ada School District official or as a private citizen. However,
+prior to responding to a media inquiry or initiating a communication directly to media contacts as a school district
+official, employees must acquire authorization from the Superintendent or Chief Communications Officer.
+
+As stated in policy, in coordination with the District’s Chief Communications Officer, the principal of each building
+may be authorized to release crisis communications. Any person other than the principal must have the principal’s
+authorization to release such information.
+
+```
+BoardPolicyManual
+WestAdaSchoolDistrict
+```
+

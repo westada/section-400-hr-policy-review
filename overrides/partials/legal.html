@@ -1,0 +1,19 @@
+{#-
+  This file was automatically generated - do edit
+-#}
+<hr>
+{% if page and page.meta.legal %}
+  <div class='footnote'>
+    <p>
+      <small>
+        Legal References: {{page.meta.legal}}
+      </small>
+    </p>
+  </div>
+  <br>
+{% endif %}
+<ul>
+  {% if page and page.meta.created %}<li><small>Created: {{page.meta.created }}</small></li>{% endif %}
+  {% if page and page.meta.updated %}<li><small>Updated: {{page.meta.updated }}</small></li>{% endif %}
+  {% if page and page.meta.reviewed %}<li><small>Reviewed: {{page.meta.reviewed }}</small></li>{% endif %}
+</ul>
