@@ -1,9 +1,9 @@
 # Board Documents - *Experimental*
 
-This repository is an experiment in using an alternative approach to Board document management using open-source based tools as opposed to a specific vendor.  **It should not be considered official**.  The official board management software for the West Ada School District can be found [here](https://simbli.eboardsolutions.com/index.aspx?S=36031062).
+This repository is an alternative approach to Board document management using open-source based tools.  **It should not be considered official**.  The official board management software for the West Ada School District can be found [here](https://simbli.eboardsolutions.com/index.aspx?S=36031062).
 
 ## Tools
-This experimental approach uses the following tools:
+This approach uses the following tools:
 
 -[Markdown](https://www.markdownguide.org)
 
@@ -11,46 +11,163 @@ This experimental approach uses the following tools:
 
 -[MkDocs](https://www.mkdocs.org)
 
-This is a brief explanation of the function of each tool:
+Here is a brief explanation each tool’s function:
 
 ### Markdown
-Typically we write files using a proprietary software tool such as Microsoft Word.  Formatting aspects such as Bold, Italic, Underling, Titles, etc., are all part of the system and are put into place by selecting text and clicking buttons.  The software then translates all of this into what we want to see and that is saved in the file as a set of internal instructions only available to that particular software.  This makes it difficult for other software -- or humans -- to understand what the original author wants to see without converting the file to other formats.
+Typically we write files using proprietary software such as Microsoft Word.  Formatting such as Bold, Italic, Underling, Titles, etc., are put into place by selecting text and clicking buttons.  The software then translates those button clicks into what we want to see, which is saved in the file as a set of internal instructions only available to that particular software.  
 
-In contrast, Markdown is just plain text.  There are no “secret” instructions.  Rather, Markdown is a set of simple conventions that are well-known by other computers, software and -- most importantly -- are readable by humans.  Generally speaking, a person totally unfamiliar with Markdown itself should be able to read a Markdown file and know intuitively what the author is saying contextually.
+In contrast, Markdown is just plain text.  There are no “secret” instructions unique to that software program.  Instead, Markdown is a set of simple conventions that are well-known by other computers, software and intuitively readable by humans.  Generally speaking, a person totally unfamiliar with Markdown itself should be able to read the content of a Markdown file and not only process the words themselves, but also intuitively understand formatting context such as bold, italics, sections, etc. 
 
-For instance, when we want to emphasis a word, we surround it in *asterisks*.  When reading in plain text, we know that the word has added meaning without needing any additional formatting or context.
+For instance, when we want to emphasis a word, we surround it in asterisks.  This accomplishes two things:
 
-Moreover, other computers also know what this means and so if we wanted to print it, save it as a PDF, render into a webpage, etc., then it removes the asterisks and presents the document with italics, bold, title, according to the convention.
+1. When reading in plain text, humans know that the word `*asterisks*` has added emphasis without needing to see the italics themselves.  
+2. Computers also know what this means and so if we wanted to print it, save it as a PDF, render into a webpage, etc., then it removes the asterisks and presents the worked *asterisks* with italics (or bold, underline, etc.) accordingly.
 
-Markdown can do most everything a propietary software like Word can do, including headings, bullet lists, tables, equations, images, etc.   Moreover, there are a variety of applications that help produce Markdown text using all the same buttons and keystrokes to which a user has become accosomted.
+Markdown can do most everything a proprietary software like Word can do, including headings, bullet lists, tables, equations, images, etc., in any text editor application.  Moreover, there are a variety of applications that produce Markdown using all the same buttons and keystrokes to which a user has become accustomed.
+
+> To see this in action, try [Dillinger](https://dillinger.io), which is a free Markdown editor that is entirely online. Other popular desktop and mobile applications include [Obsidian](https://obsidian.md), [Typora](https://typora.io), [IA Writer](https://ia.net/writer) -- or simply search online for “Markdown Editor” and try them all.  
 
 
 #### Style Guide
 When writing the policies in Markdown, please use the following conventions:
 
-> To write in Markdown with previews, a good online editor is https://dillinger.io, which is effective and readily available on all platforms.  Other desktop or mobile applications can be found by searching for "Markdown Editor".
+- Every policy should have its own file.  A file is equivalent to a Word document, but is written in plain text and ends with `.md`. 
 
-- Every policy should have its own file.
+- When creating files, always start with the policy number, using leading and trailing zeros for the (e.g., 401.1 should written as 0401.20).  Then, follow with the title of the policy joined by dashes, replacing any special characters like ampersands with the corresponding word. There should be no spaces in the filename.  For example, “Policy 401.1 Contracts & Supplemental Contracts” should have the file name of `0401.10-Contracts-and-Supplemental-Contracts.md`.
 
-- When creating files, always start with the code number itself.  File naming should use leading and trailing zeros for the code itself (eg.,  Policy 401.2 should written as 0401.20).  Then follow with a short description, joined by dashes, that resembles the desired title as closely as possible.  There should be no spaces in the filename.
+- Be sure each file is located in the proper directory (ie, file folder) corresponding to the section for that policy.  For example, Policy 0401.02 should be filed in the `0400-Staff` folder.
 
-- Every file should start with “Front-Matter”.  Front-Matter is the term for file meta-data (ie, data about the file itself rather than the core text of the file.)  Front-Matter is denoted between two sets of three-dashes, and then each category set with a single colon (see files for examples).  Currently we set meta-data for:
-    - `created` , the original adoption date of the policy
-    - `revised`, the last date of revision
-    - `reviewed`, the last date of review (without revision)
-    - `legal`, the specific legal references that affect the policy but are not necessarily footnoted.
+	Also please note that the policies themselves are found in the `docs/policies/` directory in the root of the repo.  Also in `docs` is and `img` folder (used for things like our logo) and `meetings` and `regulations`, which are there for potential future use corresponding to our meeting agendas and ARs, respectively.
 
-	Not all of these categories will be present in every file, and some of the legal references will require cleanup.  We may also add and remove front-matter categories as time goes on.  See the files themselves for examples of front-matter.
+- The contents of the file should start file meta-data (ie, data about the file itself rather than the core text of the file.)  This is typically called “Front-Matter”, and is denoted by various descriptors each on their own line, followed by a colon, and then the specific meta data itself, all placed between between two sets of three-dashes.  
 
-- The title should be the first official line of the policy, and should use preceded by a single hash (#) mark (to denote Heading One), and written in Title Case.  It should be the only line of the file using a single hash.
+	Here is an example of a front matter from policy 0410.01:
+	
+	```
+	---
+	created: 2007-05-08
+	updated: 2012-03-13
+	reviewed: 2012-03-13
+	legal: Code of Idaho 33-1201 thru 33-1210, 33-513
+	---
+	```
+	
+	Again, most of this should be intuitive, but this means that the policy was created on May 8, 2007, was last updated and reviewed on March 13, 2012, and references the corresponding Legal codes.  
+	
+	The useful thing about Front-Matter is that it can be used to store important information about the policy that people can read and access without being part of the file itself.  
 
-- Paragraphs of text should be soft-wrapped; meaning, they should not have a carriage return in the middle of a paragraph.  (Note: this is likely to be the most difficult part of maintaining style.)
+	Not all of these categories will be present in every file, and some of the legal references will require cleanup.  We may also add and remove front-matter categories as time goes on. 
 
-- Unless there is a particular reason a list should ordered, then the list should be unordered, using a single dash to denote each bullet point.
+- Following the front-matter, the official title should be the first line of the policy, with a title header.  In markdown, a Title Header is connoted by preceding the line of text with a single hash (#) mark, and written in Title Case.  The title should be the only line of the file using a single hash.
 
-- When creating links, you can denote the linked text by using square brackets with the link itself following inside parenthesis.  It is important there be no spaces between the last bracket and the first parenthesis to ensure the link is properly formatted.  See examples in file.
+	For example, the title line of 0401.10 is written as:
 
-- Footnotes can be added by using square brackets "[ ]", with a caret "^" followed by a shorthand reference.  The most two common legal references are Idaho Code and IDAPA Regulations, which should be written as `ic-chapter-section` and `idapa-section`.  See examples in the files.
+	```
+	# 0401.10 Contracts and Supplemental Contracts
+	```
+
+- After the main title, create sections and sub-sections by writing a single line of text, preferably in Title Case, preceded by two hash-marks `## Section Title`.  Subsections under that can use three hash marks `### Sub-Section Title`.  You can continue this pattern as far as necessary.   
+
+	Effective sectioning is good for organization in general, but in Markdown it has the extra advantage of allowing for auto-creation of tables of contents so that users can easily find what they’re looking for in the file.  
+
+- Paragraphs of text should be soft-wrapped; meaning, they should not have a carriage return in the middle of a paragraph.  Most editors will do this for you automatically.  
+
+- Lists are created by using specific marks and indentation.  Lists take two forms, unordered and ordered.  
+
+	Unordered list can use either `-`, `*`, or `+` marks at the start of each line, followed by a carriage return.  For example, 
+	
+	```
+	- Item One
+	- Item Two
+	- Item Three
+	```
+
+	If you then wish create a nested list, you denote this through indentation.  For example:
+	
+	```
+	- Item One
+		- Sub-Item A
+		- Sub-Item B
+	- Item Two
+	```
+
+	Ordered lists work in much the same way, but instead of a tick mark it uses a `1.` at the beginning of each line.
+	
+	```
+	1. Item One
+	1. Item Two
+	1. Item Three
+	```
+
+	This can be a bit confusing at first, but when presenting the list the computer will know to re-number it 1, 2, 3 accordingly.  This allows you to easily re-order a list without having to change the underlying text.
+	
+	That said, if you wish you may also number them more intuitively, as follows:
+	
+	```
+	1. Item One
+	2. Item Two
+	3. Item Three
+	```
+
+	And the computer will do the same thing.
+	
+	> Note, the computer will always re-number the list according to what’s presented, regardless of the number itself.  So a list that is numbered 1., 4., 3., will still be presented as 1., 2., 3., in the final product.
+
+	Please note that for nesting of ordered lists, you need to use the same `1.` convention -- it’s the indentation that matters, not the leading number or letter.  For instance:
+	
+		```
+		1. Item One
+			1. Sub-Item A
+			2. Sub-Item B
+		2. Item Two
+		```
+	
+	will do what you want, while:
+	
+		```
+		1. Item One
+			a. Sub-Item A
+			b. Sub-Item B
+		2. Item Two
+		```
+	
+	will not.  
+	
+	In general, use unordered lists (ie, with just tick marks) unless a specific order is required.  	
+- When creating links, denote the linked text by using square brackets with the link itself following inside parenthesis.  It is important there be no spaces between the last bracket and the first parenthesis to ensure the link is properly formatted.  For example, `[West Ada Home Page](https://www.westada.org)` 
+
+
+- Footnotes can be added by using square brackets `[ ]`, with a caret `^` followed by a shorthand reference.  The footnote mark can then be placed immediately after the text you wish footnoted, with the reference itself at the bottom of the file.  For example:
+
+	```
+	Markdown is very useful[^1]
+	
+	...rest of file...
+	
+	
+	[^1] At least, this is what Dave thinks.  We'll see.
+	```
+
+	This will then create all of the footnotes automatically, wherever they appear, and can be reused throughout the file.  
+	
+	I anticipate we’ll use footnotes mostly for legal and external references, particularly Idaho Code and IDAPA Regulations.  Given that they’ll be so common, we should use `ic-<chapter>-<section>` and `idapa-<section>` as a convention.  For example, from Policy 0200.10:
+	
+	
+	```
+	Accordingly, the West Ada School District is granted authority in Idaho Statute to operate as a body politic per section 33-301, Idaho Code[^ic-33-301], and will be governed by a Board of Trustees per section 33-501, Idaho Code.[^ic-33-501]
+	```
+	
+	With the footnotes at the bottom formatted as:
+	
+	```
+	[^ic-33-301]: [Idaho Code 33-301](https://legislature.idaho.gov/statutesrules/idstat/title33/t33ch3/sect33-301/)
+	[^ic-33-501]: [Idaho Code 33-501]( https://legislature.idaho.gov/statutesrules/idstat/title33/t33ch5/sect33-501/)
+	```
+	
+	You’ll notice that you can format the footnotes themselves with links, that allow an easy way to get access to the source of the citation.  In general, anytime we reference a specific Idaho Statute we should footnote and link it in the policy itself for easy access.
+	
+These style conventions should suffice for most of the policies; as we get into more complex things like tables I’ll provide further assistance.
+	
 
 
 ### Github
