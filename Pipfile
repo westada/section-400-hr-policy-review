@@ -6,10 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-mkdocs = {version = "*", extras = ["i18n"]}
+mkdocs = "*"
 mkdocs-material = "*"
-mkdocs-git-revision-date-localized-plugin = "*"
-mkdocs-footermatter = "*"
 
 [requires]
 python_version = "3.12"
