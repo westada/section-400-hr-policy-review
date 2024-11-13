@@ -3,8 +3,7 @@ created: 2022-09-26
 reviewed: 2022-09-26
 code: 1102
 ---
-
-#  Media Relations
+ Media Relations
 
 To accomplish communications goals within the community, the District will provide professional, proactive, and structured contact with our partners in the news media.
 
