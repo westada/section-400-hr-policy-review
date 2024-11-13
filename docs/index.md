@@ -1,4 +1,15 @@
-# West Ada School District Board of Trustees
+---
+title: Home
+---
+
+## IMPORTANT NOTICE
+
+This is an *experimental* test of a new system to manage the Calendar, Policies, and Administrative Regulations of the West Ada School District Board or Trustees.  It is designed for internal use only, and does not represent the West Ada School District in any capacity.
+
+**The official policies, minutes and regulations can be found at:**
+
+[West Ada Board of Trustees OFFICIAL Home](https://simbli.eboardsolutions.com/index.aspx?S=36031062)
+
 
 The West Ada School Board is the policy making body of the school district, establishing the principles that govern the daily operation of the school system. Each of the five trustees represent specific geographic zones in the district. Individual members have no authority to act on their own but meet as a board in a formal session. They receive no salaries or benefits and are elected to a four-year term.
 
