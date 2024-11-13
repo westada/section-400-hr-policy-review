@@ -1,0 +1,13 @@
+---
+created: 2024-11-11
+updated: 2024-11-11
+reviewed: 2024-11-11
+---
+
+# Non-Discrimination
+
+The West Ada School District adheres to all federal statutes and regulations including Title VI of the Civil Rights Act of 1964; Section 504 of the Rehabilitation Act of 1973; the Age Discrimination Act of 1975; the Regulations of the U.S. Department of Health and Human Services issued pursuant to the Acts, Title 45 Code of Federal Regulations Part 80, 84, and 91; Title IX of the Education Amendments of 1972; Title II of the Americans with Disabilities Act of 1990, the Regulations of the U.S. Department of Education, Title 34 Code of Federal Regulations Parts 100, 104, and 110, and the Regulations of the U.S. Department of Justice, Title 28 Code of Federal Regulations Part 35.
+
+Accordingly, it is the policy of the West Ada School District not to discriminate against any individual based on the above-stated protected classifications.
+
+The Board of Trustees directs the Superintendent or designee to create procedures which foster a working and learning environment that is free from unlawful discrimination, harassment, intimidation, abusive conduct, or bullying.
