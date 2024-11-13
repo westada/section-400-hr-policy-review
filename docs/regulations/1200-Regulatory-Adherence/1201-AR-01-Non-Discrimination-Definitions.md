@@ -1,0 +1,62 @@
+---
+policy: 1201
+---
+
+# Non-Discrimination AR-01 Definitions
+
+When addressing unlawful discrimination pursuant to Policy 1201, the following federally protected classifications are addressed and defined as stated. The descriptions below only outline some, but not all of the protections of these laws:
+
+## Section 504 of the Rehabilitation Act of 1973
+
+- Section 504 of the Rehabilitation Act of 1973 prohibits disability discrimination. This applies to any individual who has a condition that substantially limits one or more major life activity.
+
+- Section 504 applies to educational programs and facilities that receive federal financial aid from the U.S. Department of Education.
+
+- Pursuant to Section 504, educational institutions must make reasonable accommodations to help disabled students perform at acceptable levels, with a goal that disabled students have equal access to those without disabilities.
+
+    - Section 504 is a different law than the Individuals with Disabilities in Education Act (IDEA). Both laws require a school district to provide a free appropriate public education (FAPE), but Section 504 defines FAPE more broadly. Also, IDEA requires a school district to develop an Individualized Education Program (IEP) for each eligible student with a disability that sets out, among other information, the student’s program of special education and related services. Under Section 504, however, the implementation of an IEP is one way of complying with the Section 504 FAPE standard.
+
+- School districts are required to ensure that students and others with disabilities, including parents, are not denied access to programs or activities because of inaccessible facilities, including buildings, walkways, restrooms, playgrounds, and parking spaces. The precise requirements schools must meet to ensure physical accessibility depends on the date a facility was initially built or altered. For more information about accessibility requirements, please visit www.ada.gov.
+
+    -Even if a building does not have to be made fully physically accessible because of its age, Section 504 and Title II require that every program or activity of the school district be made “program accessible. ” A common way this is done is to relocate the program to an accessible portion of the building or to another building that is accessible.
+
+## Title II of the Americans with Disabilities Act of 1990
+
+- Title II of the Americans with Disabilities Act prohibits discrimination on the basis of disability, regardless of whether or not the entity received federal financial support.
+
+- Title II requires state and local governmental entities, such as the District, to provide an equal opportunity to people with disabilities to use the Districts programs, services, and activities.
+
+- A public entity, such as the District, must make reasonable modifications when the modifications are necessary to avoid discrimination based on disability unless it can demonstrate that the modification would fundamentally alter the nature of the service or program. Under Title II failure to construct new buildings in accordance with appropriate guidelines and to appropriately update older buildings, as applicable, may be a violation of the ADA.
+
+- In general, Section 504 and Title II nondiscrimination standards are the same, and in general, actions that violate Section 504 also violate Title II. However, where Title II requirements exceed Section 504 requirements, school districts must also comply with the Title II requirements.
+
+Title I of the Americans with Disabilities Act – prohibits employers with 15 or more employees from disability discrimination in hiring, promotions, training, or other privileges of employment. It also bars asking questions about an applicant’s disability. Title I requires that employers make a reasonable accommodation to the known physical or mental limitations of otherwise qualified individuals with disabilities unless it results in undue hardship.
+
+
+## Title VI of the Civil Rights Act of 1964
+
+- Title VI of the Civil Rights Act of 1964 is a federal law that protects civil rights by prohibiting discrimination on the basis of race, color and national origin in employment, housing, voting, public accommodations and education.
+
+- Title VI applies to educational programs, such ats the District, that receive federal financial aid from the US Department of Education.
+
+## The Age Discrimination Act of 1975
+
+- The Age Discrimination Act of 1975 states that no person on the basis of age, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial assistance, including educational programs.
+
+- This Act is a broader federal law than the Age Discrimination in Employment Act, referenced below. This Act applies to a broader range of people affected by federally funded programs including students and employees.
+
+- Although the statute forbids discrimination on the basis of age, certain restrictions may be considered appropriate if the age distinction is necessary for the normal operations of the activity or program or if there are factors other than age that have a key relationship to the activity or program.
+
+Age Discrimination in Employment Act of 1967 – protects certain applicants and employees 40 years of age or older from discrimination on the basis of age. This law applies solely to employment practices such as providing equal employment opportunities.
+
+## Title IX of the Education Amendments of 1972
+
+- Title IX of the Education Amendment of 1972 prohibits educational institutions from discriminating against anyone (students, staff, or others) on the basis of gender.
+
+- Title IX requires the District provide equal opportunities for both genders in all aspects of education including but not limited to athletics, school sponsored activities, course offerings, employment, financial aid.
+
+- Title IX violations may also include pregnancy discrimination, sexual harassment and sexual assault. Educational institutions that fail to follow Title IX risk a loss of federal funding.
+
+## Retaliation
+
+- In addition to prohibiting discrimination, each of these civil rights laws also prohibits retaliation against individuals who assert their rights, including filing a discrimination complaint and/or participating in the complaint process. The District is prohibited from intimidating, threatening, coercing, or discriminating against any individual for the purpose of interfering with any right or privilege secured by federal civil rights laws.
