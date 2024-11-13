@@ -1,9 +1,10 @@
 ---
 created: 2022-09-26
 reviewed: 2022-09-26
+code: Policy
 ---
 
-# Policy 1100: Vision, Goals and Policy
+#  1100: Vision, Goals and Policy
 
 The communications goal of the Board and the Superintendent of schools is to keep the community informed of the programs and operations of the District. The District aims to be a trusted partner in the community. Our communications efforts will demonstrate that the District is inclusive in decision-making, transparent, and responsive.
 

@@ -1,9 +1,10 @@
 ---
 created: 2022-09-26
 reviewed: 2022-09-26
+code: 1101
 ---
 
-# 1101 School-Based Communications
+#  School-Based Communications
 
 School-based communications are important in keeping the community informed of the District’s operations and programs. The school building is the most important communication source, and the Superintendent and the communications team will provide all necessary support to provide effective communication to that school’s students, parents/guardians, and staff.
 
