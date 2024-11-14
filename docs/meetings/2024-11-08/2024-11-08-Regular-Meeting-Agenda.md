@@ -69,6 +69,7 @@ The Board May take action to approve, deny, amend, modify, or postpone action on
 ## XIII. ADJOURNMENT
 
 
+<!--
 [^01]: [GL5214__420_SPF_421_Lottery](01-GL5214__420_SPF_421_Lottery.pdf)
 [^02]: [GL6002__All_Other_Funds_Excluding_242](02-GL6002__All_Other_Funds_Excluding_242.pdf)
 [^03]: [GL6003__242_Self_Funding_Oct_2024](03-GL6003__242_Self_Funding_Oct_2024.pdf)
@@ -91,3 +92,4 @@ The Board May take action to approve, deny, amend, modify, or postpone action on
 [^20]: [Vendor_Report_Oct_2024](20-Vendor_Report_Oct_2024.pdf)
 [^21]: [PCARD_Sept_2024](21-PCARD_Sept_2024.pdf)
 [^22]: [Minutes-2024-10-28](22-Minutes-2024-10-28.pdf)
+-->
