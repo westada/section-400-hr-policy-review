@@ -4,7 +4,7 @@ title: Home
 
 ## IMPORTANT NOTICE
 
-This is an *experimental* test of a new system to manage the Calendar, Policies, and Administrative Regulations of the West Ada School District Board or Trustees.  It is designed for internal use only, and does not represent the West Ada School District in any capacity.
+This is an *experimental* test of a new system to manage the Calendar, Policies, and Administrative Regulations of the West Ada School District Board of Trustees.  It is designed for internal use only, and does not represent official West Ada School District policy or procedure.
 
 **The official policies, minutes and regulations can be found at:**
 
