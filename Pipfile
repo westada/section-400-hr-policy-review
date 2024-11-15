@@ -9,6 +9,7 @@ ipython = "*"
 [packages]
 mkdocs = "*"
 mkdocs-material = "*"
+mkdocs-autolinks-plugin = "*"
 
 [requires]
 python_version = "3.12"
