@@ -33,15 +33,17 @@ When writing the policies in Markdown, please use the following conventions:
 
 - Every policy should have its own file.  A file is equivalent to a Word document, but is written in plain text and ends with `.md`. 
 
-- When creating files, always start with the policy number, using leading and trailing zeros for the (e.g., 401.1 should written as 0401.20).  Then, follow with the title of the policy joined by dashes, replacing any special characters like ampersands with the corresponding word. There should be no spaces in the filename.  For example, “Policy 401.1 Contracts & Supplemental Contracts” should have the file name of `0401.10-Contracts-and-Supplemental-Contracts.md`.
+- Files should be named for their code number with leading and trailing zeros and replacing the decimal with an underscore `_`.  For example, Policy 401.2 should named 0401_20.md. 
 
-- Be sure each file is located in the proper directory (ie, file folder) corresponding to the section for that policy.  For example, Policy 0401.02 should be filed in the `0400-Staff` folder.
+- Be sure each file is located in the proper directory (ie, file folder) corresponding to the section for that policy.  For example, Policy 401.2 should be filed in the `0400-Staff` folder.
 
-	Also please note that the policies themselves are found in the `docs/policies/` directory in the root of the repo.  Also in `docs` is and `img` folder (used for things like our logo) and `meetings` and `regulations`, which are there for potential future use corresponding to our meeting agendas and ARs, respectively.
+- Administrative Regulations should be named starting with the policy number, using the same formatting as above.  Then, the file name should be appended with `-AR-01`, again using a leading zero for single-digit ARs.  For example, Policy 401.2 AR #1 should be named `0401_20-AR-01.md`.  ARs should be placed in the corresponding policy folder under `docs/regulations`.  
 
-- The contents of the file should start file meta-data (ie, data about the file itself rather than the core text of the file.)  This is typically called “Front-Matter”, and is denoted by various descriptors each on their own line, followed by a colon, and then the specific meta data itself, all placed between between two sets of three-dashes.  
+- Also please note that is an `img` folder (used for things like our logo) and a `meetings` folder which is for potential future use.
 
-	Here is an example of a front matter from policy 0410.01:
+- The contents of the file should start with meta-data (ie, data about the file itself rather than the core text of the file.)  This is denoted by various descriptors each on their own line, followed by a colon, and then the specific meta data itself, all placed between between two sets of three-dashes.  
+
+	Here is an example of a meta-data from policy 0410.01:
 	
 	```
 	---
@@ -54,19 +56,10 @@ When writing the policies in Markdown, please use the following conventions:
 	
 	Again, most of this should be intuitive, but this means that the policy was created on May 8, 2007, was last updated and reviewed on March 13, 2012, and references the corresponding Legal codes.  
 	
-	The useful thing about Front-Matter is that it can be used to store important information about the policy that people can read and access without being part of the file itself.  
+	Not all of these categories will be present in every file, and some of the legal references will require cleanup.  We may also add and remove meta-data categories as time goes on. 
 
-	Not all of these categories will be present in every file, and some of the legal references will require cleanup.  We may also add and remove front-matter categories as time goes on. 
 
-- Following the front-matter, the official title should be the first line of the policy, with a title header.  In markdown, a Title Header is connoted by preceding the line of text with a single hash (#) mark, and written in Title Case.  The title should be the only line of the file using a single hash.
-
-	For example, the title line of 0401.10 is written as:
-
-	```
-	# 0401.10 Contracts and Supplemental Contracts
-	```
-
-- After the main title, create sections and sub-sections by writing a single line of text, preferably in Title Case, preceded by two hash-marks `## Section Title`.  Subsections under that can use three hash marks `### Sub-Section Title`.  You can continue this pattern as far as necessary.   
+- Create sections and sub-sections by writing a single line of text, preferably in Title Case, preceded by two hash-marks `## Section Title`.  Subsections under that can use three hash marks `### Sub-Section Title`.  You can continue this pattern as far as necessary.   
 
 	Effective sectioning is good for organization in general, but in Markdown it has the extra advantage of allowing for auto-creation of tables of contents so that users can easily find what they’re looking for in the file.  
 
@@ -269,9 +262,9 @@ It is assumed that either Niki or Amy will start the process by editing a specif
 
 When the edits are where you want, you commit these changes, which saves it in time.  This then provides you with the opportunity to create a branch or commit your comments to the main directly.
 
-In almost all cases we will want to create a new branch with the edits.  I say almost because sometimes it may make sense to make direct edits to main without creating a branch.  For instance, right now I am taking the files imported from Simbli and converting them into Markdown syntax via the style guide.  Since I’m doing formatting only, it makes sense to not complicate things with a branch.  I can also see a situation where Amy makes updates to the Legal References in the Front-Matter section of the file directly, without needing to create branches, pull-requests, etc.
+In almost all cases we will want to create a new branch with the edits.  I say almost because sometimes it may make sense to make direct edits to main without creating a branch.  For instance, right now I am taking the files imported from Simbli and converting them into Markdown syntax via the style guide.  Since I’m doing formatting only, it makes sense to not complicate things with a branch.  I can also see a situation where Amy makes updates to the Legal References in the meta-data section of the file directly, without needing to create branches, pull-requests, etc.
 
-Basically, direct edits to the main trunk should be reserved for changes to meta-data (such as formatting, front-matter, footnotes, etc.) rather than the policy body itself.  Again, everything is tracked and can be undone so there isn’t any real risk here; the point is that the body text of the policy shouldn’t officially change until and unless approved by the Board in open session.
+Basically, direct edits to the main trunk should be reserved for changes to meta-data (such as formatting, meta-data, footnotes, etc.) rather than the policy body itself.  Again, everything is tracked and can be undone so there isn’t any real risk here; the point is that the body text of the policy shouldn’t officially change until and unless approved by the Board in open session.
 
 Most edits will be committed to a new branch, which ideally should be a single-branch per file.  There may be cases where multiple files depend on one another (such as moving set from one policy to another) but in general -- and certainly in the beginning -- simpler is better.
 
