@@ -33,11 +33,11 @@ When writing the policies in Markdown, please use the following conventions:
 
 - Every policy should have its own file.  A file is equivalent to a Word document, but is written in plain text and ends with `.md`. 
 
-- Files should be named for their code number with leading and trailing zeros and replacing the decimal with an underscore `_`.  For example, Policy 401.2 should named 0401_20.md. 
+- Files should be named for their code number with leading and trailing zeros.  For example, Policy 401.2 should named `0401.20.md`. 
 
 - Be sure each file is located in the proper directory (ie, file folder) corresponding to the section for that policy.  For example, Policy 401.2 should be filed in the `0400-Staff` folder.
 
-- Administrative Regulations should be named starting with the policy number, using the same formatting as above.  Then, the file name should be appended with `-AR-01`, again using a leading zero for single-digit ARs.  For example, Policy 401.2 AR #1 should be named `0401_20-AR-01.md`.  ARs should be placed in the corresponding policy folder under `docs/regulations`.  
+- Administrative Regulations should be named starting with the policy number, using the same formatting as above.  Then, the file name should be appended with `-AR-01`, again using a leading zero for single-digit ARs.  For example, Policy 401.2 AR #1 should be named `0401.20-AR-01.md`.  ARs should be placed in the corresponding policy folder under `docs/regulations`.  
 
 - Also please note that is an `img` folder (used for things like our logo) and a `meetings` folder which is for potential future use.
 
