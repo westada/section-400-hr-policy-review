@@ -12,12 +12,21 @@ This platform is in an experimental phase and intended for internal use only. As
 
 [West Ada Board of Trustees OFFICIAL Home](https://simbli.eboardsolutions.com/index.aspx?S=36031062)
 
-The West Ada School Board plays an important role in shaping the direction of our schools. Made up of five elected trustees—each representing a specific area of our district—the board works together to set the policies that guide daily operations. Trustees don’t act alone, but instead make decisions as a group during public meetings. These individuals volunteer their time and serve four-year terms, helping ensure our schools are supported and our students succeed.
+## HOW TO USE
 
-## Trustees
+Policies and Administrative regulations are written in text format, and are located in the `docs` folder under `policies` and `regulations`, respectively.  All other folders are used by the system and can be safely ignored.
 
-- **Lori Frasure** Chair, Zone 1
-- **Rene Ozuna** Vice-Chair, Zone 5
-- **Lucas Baclayon** Zone 2
-- **Angie Redford** Trustee Zone 3
-- **David Binetti** Trustee Zone 4
+Within `policies` and `regulations`, folders are organized by section.  For the purposes of this project most changes are located in the `0400-staff` folder, and each policy/AR file is named according to the policy/AR name.  
+
+Within each file there is a file header that represents meta-data about the policy/AR that can be safely ignored. The files can be read in the browser in a variety of different formats.  
+
+The system maintains two separate and entirely self-contained versions of our policies/ARs that you can toggle between.
+
+- To read the current official policies, view the [main branch](https://github.com/westada/section-400-hr-policy-review/tree/main).
+
+- To read the proposed draft policies, view the [rework branch](https://github.com/westada/section-400-hr-policy-review/tree/rework). 
+
+- To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/main...rework).
+
+We hope you find this useful, transparent, and easy to process.
+
