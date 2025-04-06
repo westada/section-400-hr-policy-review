@@ -1,8 +1,4 @@
----
-title: Home
----
-
-## PLEASE NOTE
+# PLEASE NOTE
 
 This is a test version of a new system (GitHub) that the West Ada School District is currently exploring to support the organization and management of Board Policies and Administrative Regulations (ARs) associated with the West Ada School District Board of Trustees.
 
@@ -22,11 +18,11 @@ Within each file there is a file header that represents meta-data about the poli
 
 The system maintains two separate and entirely self-contained versions of our policies/ARs that you can toggle between.
 
-- To read the current official policies, view the [main branch](https://github.com/westada/section-400-hr-policy-review/tree/main).
+- To read the current official policies, view the [current branch](https://github.com/westada/section-400-hr-policy-review/tree/current).
 
-- To read the proposed draft policies, view the [rework branch](https://github.com/westada/section-400-hr-policy-review/tree/rework). 
+- To read the proposed draft policies, view the [proposed branch](https://github.com/westada/section-400-hr-policy-review/tree/proposed). 
 
-- To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/main...rework).
+- To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/current...proposed).
 
 We hope you find this useful, transparent, and easy to process.
 
