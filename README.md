@@ -14,9 +14,9 @@ GitHub is a product designed to facilitate collaboration on shared documents thr
 
 In terms of organization, Policies and Administrative regulations are written in text format, and are located in the `docs` folder under `policies` and `regulations`, respectively.  All other folders are used by the system and can be safely ignored.
 
-Within `policies` and `regulations`, folders are organized by section.  For the purposes of this project most changes are located in the `0400-staff` folder, and each policy/AR file is named according to the policy/AR section.  
+Within `policies` and `regulations`, folders are organized by section.  For the purposes of this project most changes are located in the `0400-staff` folder, and each policy/AR file is named according to the policy/AR section.
 
-Within each file there is a file header at the top that represents meta-data about the policy/AR used by the system that can be safely ignored. The files can be read in the browser in a variety of different formats, or downloaded to your local computer to be read in whatever application you wish.  
+Within each file there is a file header at the top that represents meta-data about the policy/AR used by the system that can be safely ignored. The files can be read in the browser in a variety of different formats, or downloaded to your local computer to be read in whatever application you wish.
 
 The system maintains two separate and entirely self-contained versions of our policies/ARs (called 'branches') that you can toggle between.  All of the text is either current or proposed, depending on which branch you are in.
 
@@ -24,7 +24,15 @@ The system maintains two separate and entirely self-contained versions of our po
 
 - To read the proposed draft policies, view the [proposed branch](https://github.com/westada/section-400-hr-policy-review/tree/proposed). 
 
-- To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/current...proposed).
+- To compare the current against the proposed, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/current...proposed).
+
+## EASY TO READ VERSION
+
+Finally, if you wish to view the lastest proposed changes in a more easy-to-read format without all of the additional granular detail, you can do so at this site:
+
+https://westada.github.io/section-400-hr-policy-review
+
+This site is built automatically from the same files available here in this Github repository, and is provided merely as a convenience.
 
 Thank you for your interest.  We hope you find this system transparent and useful.
 
