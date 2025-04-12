@@ -1,4 +1,4 @@
-site_name: West Ada School District Board of Trustees
+site_name: West Ada School District Board of Trustees Section 400 Rework
 theme:
   name: material
   custom_dir: overrides
@@ -7,6 +7,9 @@ markdown_extensions:
   - footnotes
   - meta
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 plugins:
   - search
   - autolinks
