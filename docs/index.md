@@ -33,9 +33,9 @@ The goal with this approach is to maintain the ultimate authority with the Peopl
 !!! tip
     There has been substantial public interest in one specific policy (Policy 401.20) that addresses classroom displays.  As part of the Section 400 rework, this particular policy was split up into various parts several months ago and as such 401.20 itself will not be found on this site.  As a convenience, please find links to the proposed replacement for 401.20 which address classroom displays:
 
-    - [Policy 403.50 Staff Conduct](policies/0400-staff/0403.50)
-    - [Administrative Regulation 403.50-AR-04 District Physical Property](regulations/0400-staff/0403.50-AR-04)
-    - [Administrative Regulation 403.50-AR-09 Visual Review Process](regulations/0400-staff/0403.50-AR-09)
+    - [Policy 403.50 Staff Conduct](0403.50.md)
+    - [Administrative Regulation 403.50-AR-04 District Physical Property](0403.50-AR-04.md)
+    - [Administrative Regulation 403.50-AR-09 Visual Review Process](0403.50-AR-09.md)
 
 
 ## Learning More
