@@ -24,7 +24,7 @@ There are two components to this site, Policies and Administrative Regulations.
 
 **Administrative Regulations**, or ARs, are set by the Administration through the Superintendent.  They tend to be imperative, specific, and tactical.  ARs are meant to address "how" the District accomplishes the "what". 
 
-Every Policy is voted on by the Board of Trustees in open session, typically after a three-reading process.  These may be commented on by the public and remain in force until and unless superseded by statute or rescinded by the Board (again, following a three-reading process in open session.)
+Every Policy is voted on by the Board of Trustees in open session, typically after a three-reading process.  These may be commented on by the public and remain in force until and unless superseded by statute or rescinded by the Board (again, typically following a three-reading process in open session.)
 
 Every AR is written by the Administration and can change at any time.  However, any changes in Administrative Regulation must be presented to the Board in open session (typically on the "consent agenda") allowing for oversight.
 
