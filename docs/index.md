@@ -12,7 +12,7 @@ title: Section 400 Rework Preview
 
 For the past two years the Policy Review Committee has been engaged in a long-term effort to revise the West Ada School District Policy Manual.  The goal is to simplify, clarify, and update all District policies.  So far, the Board has approved revisions to Sections 100, 200 and 300; Section 400 is simply next in line.
 
-Generally, the Policy Review Committee recommends policy changes on-at-a-time.  However, the complexity and inter-dependency of Section 400 made this effectively impossible.  As a result, we decided to address Section 400 as a whole, with the intention of presenting all recommendations holistically.  This required the use of a new tool (GitHub) from which this site is built.
+Generally, the Policy Review Committee recommends policy changes one-at-a-time.  However, the complexity and inter-dependency of Section 400 made this effectively impossible.  As a result, we decided to address Section 400 as a whole, with the intention of presenting all recommendations holistically.  This required the use of a new tool (GitHub) from which this site is built.
 
 This website represents how the entire policy manual would look if all the proposed changes were accepted by the Board of Trustees (including policies unaffected by the rework).  This site will be updated in real-time as proposals are adjusted based on feedback from patrons, personnel and Trustees, and may be used as a reference during work sessions discussing the Section 400 rework.  The goal is to have all Section 400 policies completed and approved prior to July 1 so that District personnel have an opportunity to review and adjust before the start of the 2025-2026 school year.
 
