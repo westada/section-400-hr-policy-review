@@ -1,4 +1,8 @@
-# PLEASE NOTE
+> [!NOTE]
+> This repository is designed for internal use.  For a more externally-focused (and easier-to-read version of the same content, please visit the [Section 400 Rework Site](https://westada.github.io/section-400-hr-policy-review).
+
+
+# DISCLAIMER
 
 This is a test version of a new system (GitHub) that the West Ada School District is currently exploring to support the organization and management of Board Policies and Administrative Regulations (ARs) associated with the West Ada School District Board of Trustees.
 
@@ -26,13 +30,4 @@ The system maintains two separate and entirely self-contained versions of our po
 
 - To compare the current against the proposed, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/current...proposed).
 
-## EASY TO READ VERSION
-
-Finally, if you wish to view the lastest proposed changes in a more easy-to-read format without all of the additional granular detail, you can do so at this site:
-
-https://westada.github.io/section-400-hr-policy-review
-
-This site is built automatically from the same files available here in this Github repository, and is provided merely as a convenience.
-
 Thank you for your interest.  We hope you find this system transparent and useful.
-
