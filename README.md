@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repository is designed for internal use.  For a more externally-focused (and easier-to-read version of the same content, please visit the [Section 400 Rework Site](https://westada.github.io/section-400-hr-policy-review).
+> This repository is designed for internal use.  For a more externally-focused (and easier-to-read and understand) version of the same content, please visit the [Section 400 Rework Site](https://westada.github.io/section-400-hr-policy-review).
 
 
 # DISCLAIMER
