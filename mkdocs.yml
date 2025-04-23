@@ -1,4 +1,4 @@
-site_name: West Ada School District Board of Trustees
+site_name: West Ada School District Board of Trustees Section 400 Rework
 theme:
   name: material
   custom_dir: overrides
@@ -7,9 +7,35 @@ markdown_extensions:
   - footnotes
   - meta
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 plugins:
   - search
   - autolinks
-  - with-pdf
+  - with-pdf:
+      author: West Ada School District
+      copyright: (c) 2025
+      cover: true
+      back_cover: false
+      cover_title: West Ada School District
+      cover_subtitle: Policy Manual
+      cover_logo: img/logo.png
+      # custom_template_path: TEMPLATES PATH
+
+      toc_title: Table of Contents
+      heading_shift: false
+      toc_level: 1
+      ordered_chapter_level: 1
+      excludes_children:
+         - 'release-notes/:upgrading'
+         - 'release-notes/:changelog'
+      exclude_pages:
+         - 'meetings/'
+
+      output_path: pdf/document.pdf
+      debug_html: false
+      show_anchors: false
+      verbose: false
 extra:
   generator: false
