@@ -10,5 +10,6 @@ markdown_extensions:
 plugins:
   - search
   - autolinks
+  - with-pdf
 extra:
   generator: false
