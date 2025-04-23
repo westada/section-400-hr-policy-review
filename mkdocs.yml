@@ -13,5 +13,28 @@ markdown_extensions:
 plugins:
   - search
   - autolinks
+  - with-pdf:
+      author: West Ada School District
+      cover: true
+      back_cover: false
+      cover_title: West Ada School District
+      cover_subtitle: Policy Manual
+      cover_logo: docs/img/logo.png
+      # custom_template_path: TEMPLATES PATH
+
+      toc_title: Table of Contents
+      heading_shift: false
+      toc_level: 1
+      ordered_chapter_level: 1
+      excludes_children:
+         - 'release-notes/:upgrading'
+         - 'release-notes/:changelog'
+      exclude_pages:
+         - 'meetings/'
+
+      output_path: pdf/document.pdf
+      debug_html: false
+      show_anchors: true
+      verbose: false
 extra:
   generator: false
