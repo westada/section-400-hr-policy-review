@@ -13,29 +13,26 @@ markdown_extensions:
 plugins:
   - search
   - autolinks
-  - with-pdf:
-      author: West Ada School District
-      copyright: (c) 2025
+  - to-pdf:
+      author: West Ada School District Board of Trustees
+      copyright: © 2025 West Ada School District
       cover: true
       back_cover: false
       cover_title: West Ada School District
       cover_subtitle: Policy Manual
-      cover_logo: img/logo.png
+      cover_logo: docs/img/logo.png
       # custom_template_path: TEMPLATES PATH
-
       toc_title: Table of Contents
-      heading_shift: false
-      toc_level: 1
-      ordered_chapter_level: 1
-      excludes_children:
-         - 'release-notes/:upgrading'
-         - 'release-notes/:changelog'
+      heading_shift: true
+      toc_level: 3
+      ordered_chapter_level: 0
       exclude_pages:
          - 'meetings/'
-
       output_path: pdf/document.pdf
       debug_html: false
       show_anchors: false
+      download_link: header
       verbose: false
+      # enabled_if_env: '1'
 extra:
   generator: false

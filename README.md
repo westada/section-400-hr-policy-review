@@ -25,4 +25,3 @@ The system maintains two separate and entirely self-contained versions of our po
 - To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/current...proposed).
 
 We hope you find this useful, transparent, and easy to process.
-

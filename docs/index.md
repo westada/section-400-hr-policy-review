@@ -32,4 +32,3 @@ Every Policy is voted on by the Board of Trustees in open session, typically aft
 Every AR is written by the Administration and can change at any time.  However, any changes in Administrtative Regulation must be presented to the Board in open session (typically on the "consent agenda".) 
 
 The goal with this approach is to maintain the utlimate authority for the District with the People through their elected representatives, while still allowing the district professionals to manage the day-to-day operations with  flexibility and responsiveness.
-
