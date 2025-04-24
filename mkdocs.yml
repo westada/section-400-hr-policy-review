@@ -1,4 +1,6 @@
-site_name: West Ada School District Board of Trustees Section 400 Rework
+site_name: West Ada School District Policies
+exclude_docs: |
+  meetings/
 theme:
   name: material
   custom_dir: overrides
