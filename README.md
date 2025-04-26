@@ -18,10 +18,10 @@ Within each file there is a file header that represents meta-data about the poli
 
 The system maintains two separate and entirely self-contained versions of our policies/ARs that you can toggle between.
 
-- To read the current official policies, view the [current branch](https://github.com/westada/section-400-hr-policy-review/tree/current).
+- To read the current official policies, view the [main branch](https://github.com/westada/section-400-hr-policy-review/tree/main).
 
-- To read the proposed draft policies, view the [proposed branch](https://github.com/westada/section-400-hr-policy-review/tree/proposed). 
+- To read the proposed draft policies, view the [section-400 branch](https://github.com/westada/section-400-hr-policy-review/tree/section-400).
 
-- To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/current...proposed).
+- To compare the original against the draft, view this [comparison](https://github.com/westada/section-400-hr-policy-review/compare/main...section-400).
 
 We hope you find this useful, transparent, and easy to process.
