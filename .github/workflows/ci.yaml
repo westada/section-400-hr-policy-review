@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - proposed
+      - section-400
 permissions:
   contents: write
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: proposed
+          ref: section-400
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
