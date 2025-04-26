@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - main
+      - ${{ vars.BUILD_BRANCH }}
 permissions:
   contents: write
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ vars.BUILD_BRANCH }}
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
