@@ -23,7 +23,7 @@ plugins:
           attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
       formats:
         pdf:
-          enabled: true
+          enabled: !ENV [MKDOCS_EXPORTER_PDF_ENABLED, true]
           concurrency: 16
 extra:
   generator: false
