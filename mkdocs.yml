@@ -25,5 +25,9 @@ plugins:
         pdf:
           enabled: !ENV [MKDOCS_EXPORTER_PDF_ENABLED, true]
           concurrency: 16
+          aggregator:
+            enabled: true
+            output: wasd_policy_manual.pdf
+            covers: all
 extra:
   generator: false
