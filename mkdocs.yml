@@ -1,4 +1,6 @@
 site_name: West Ada School District Policies
+repo_url: https://www.github.com/westada/section-400-hr-policy-review
+edit_url: blob/current/docs/
 exclude_docs: |
   meetings/
 theme:
@@ -29,10 +31,10 @@ plugins:
       ordered_chapter_level: 0
       exclude_pages:
          - 'meetings/'
-      download_link: header
       output_path: pdf/wasd_policy_manual.pdf
       debug_html: false
       show_anchors: false
+      download_link: header
       verbose: false
       # enabled_if_env: '1'
 extra:
